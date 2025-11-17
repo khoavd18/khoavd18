@@ -19,6 +19,14 @@
 
 ### 😂Random Dev Meme
 <img src="https://i.imgur.com/5K2kK7M.jpg" width="512px">
+## 🚀 Projects 
+<a href="https://github.com/khoavd18/Supermarket-Checkout"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Supermarket-Checkout&theme=radical" /> 
+</a> 
+
+<a href="https://github.com/khoavd18/ABTE-Sentiment-DL"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=ABTE-Sentiment-DL&theme=merko" /> 
+</a> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chickencode18&icon=0&color=0)](https://visitcount.itsvg.in)
