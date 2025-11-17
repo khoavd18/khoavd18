@@ -25,12 +25,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Supermarket-Checkout&theme=radical" /> 
 </a> 
 
+<a href="https://github.com/khoavd18/Wrong-lane-app"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Wrong-lane-app&theme=merko" /> 
+</a> 
+
 <a href="https://github.com/khoavd18/ABTE-Sentiment-DL"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=ABTE-Sentiment-DL&theme=merko" /> 
 </a> 
 
-<a href="https://github.com/khoavd18/Wrong-lane-app"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Wrong-lane-app&theme=merko" /> 
+<a href="https://github.com/khoavd18/Sentiment-Reviews-ML"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Sentiment-Reviews-ML&theme=merko" /> 
 </a> 
 
 <a href="https://github.com/khoavd18/Bitcoin-Price-Forecasting-GRU-DL"> 
@@ -45,9 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Sale-Forecasting-ML&theme=merko" /> 
 </a> 
 
-<a href="https://github.com/khoavd18/Sentiment-Reviews-ML"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Sentiment-Reviews-ML&theme=merko" /> 
-</a> 
+
 
 [![](https://visitcount.itsvg.in/api?id=chickencode18&icon=0&color=0)](https://visitcount.itsvg.in)
 
