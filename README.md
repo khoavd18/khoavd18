@@ -148,15 +148,31 @@ current_focus = {
 </details>
 
 <!-- PROFILE_ACTIVITY:START -->
-<!-- The included workflow adds the graph after its SVG has been generated. -->
+## 📈 Activity in Motion
+
+<p align="center">
+  <img src="./assets/generated/activity.svg" width="100%" alt="Khoa's GitHub contributions over the last 31 days, using UTC dates" />
+</p>
 <!-- PROFILE_ACTIVITY:END -->
 
 <!-- PROFILE_3D:START -->
-<!-- The included workflow adds this section after its SVG has been generated. -->
+## 🌃 My Contribution Skyline
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Khoa's GitHub contributions as a 3D skyline" />
+</p>
 <!-- PROFILE_3D:END -->
 
 <!-- PROFILE_SNAKE:START -->
-<!-- The included workflow adds this section after its SVGs have been generated. -->
+## 🐍 One Contribution at a Time
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/snake.svg" />
+    <img src="./assets/generated/snake.svg" width="100%" alt="An animated snake moving through Khoa's GitHub contribution grid" />
+  </picture>
+</p>
 <!-- PROFILE_SNAKE:END -->
 
 ---
