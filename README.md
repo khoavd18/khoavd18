@@ -1,10 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:164E63,100:06B6D4&amp;height=210&amp;section=header&amp;text=Hi%2C%20I%27m%20Khoa&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&amp;descSize=16&amp;descAlignY=60" alt="Hi, I'm Khoa — AI Engineer, Computer Vision, Machine Learning" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,45:312E81,100:06B6D4&amp;height=210&amp;section=header&amp;text=NGUYEN%20VO%20DANG%20KHOA&amp;fontSize=34&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=From%20data%20to%20intelligence.%20From%20ideas%20to%20applications.&amp;descSize=15&amp;descAlignY=59&amp;animation=fadeIn" alt="Nguyen Vo Dang Khoa — From data to intelligence, from ideas to applications" />
 
-### Turning data and images into practical AI applications.
+<a href="https://github.com/khoavd18">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=27&amp;duration=2600&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=AI+Engineer;Data+Scientist;Data+Engineer" width="650" alt="My roles: AI Engineer, Data Scientist, Data Engineer" />
+</a>
 
-Based in Vietnam · Building with Python · Learning through experiments
+**Building models. Finding patterns. Connecting data.**
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-22D3EE?style=flat-square&amp;labelColor=111827" alt="Focus: Computer Vision" />
+  <img src="https://img.shields.io/badge/Driven%20by-Data%20%26%20Experiments-A78BFA?style=flat-square&amp;labelColor=111827" alt="Driven by data and experiments" />
+  <img src="https://img.shields.io/badge/Based%20in-Vietnam-34D399?style=flat-square&amp;labelColor=111827" alt="Based in Vietnam" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/khoadang18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
@@ -13,48 +21,69 @@ Based in Vietnam · Building with Python · Learning through experiments
   <a href="https://discord.gg/apolo11"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
 </p>
 
-[About](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-selected-projects) · [Activity](#-github-activity)
+[About Me](#-about-me) · [Toolkit](#-languages--tools) · [Projects](#-selected-projects) · [GitHub Dashboard](#-github-dashboard)
 
 </div>
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm **Nguyen Vo Dang Khoa**, focused on building AI applications with **computer vision, machine learning, and deep learning**. I enjoy working through the full process: preparing data, training models, evaluating results, and connecting models to usable applications.
+Hi, I'm **Khoa**. I work across **AI engineering, data science, and data engineering**, with a focus on turning data into useful applications. I enjoy preparing datasets, building models, investigating results, and connecting the pieces into a working system.
 
-- **Computer Vision:** object detection, image classification, and product recognition.
-- **Machine Learning:** sentiment analysis and time series forecasting.
-- **Current focus:** visual product retrieval using detection, image embeddings, and similarity search.
-- **How I work:** clear experiments, careful data preparation, and measurable results.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Engineer</h3>
+      <p>Computer vision, object detection, image embeddings, and model integration.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔬 Data Scientist</h3>
+      <p>Data exploration, predictive modeling, sentiment analysis, and forecasting.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Data Engineer</h3>
+      <p>Data preparation, SQL, dataset organization, and reproducible processing pipelines.</p>
+    </td>
+  </tr>
+</table>
 
-## 🛠 Tech Stack
+```python
+current_focus = {
+    "building": "Visual product recognition and similarity search",
+    "exploring": ["Image embeddings", "Model evaluation", "Data pipelines"],
+    "workflow": "Prepare → Train → Evaluate → Integrate → Improve",
+}
+```
 
-**Languages & Databases**
+## 🛠 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
-![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+<p align="center"><em>The tools behind my experiments and applications.</em></p>
 
-**Machine Learning & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=FB923C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FB923C)
-![Keras](https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=FB923C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=FB923C)
-
-**Data & Visualization**
-
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=2DD4BF)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=2DD4BF)
-![SciPy](https://img.shields.io/badge/SciPy-0F172A?style=for-the-badge&logo=scipy&logoColor=2DD4BF)
-![Plotly](https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=2DD4BF)
-
-**Tools & Environment**
-
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=A5B4FC)
-![Anaconda](https://img.shields.io/badge/Anaconda-0F172A?style=for-the-badge&logo=anaconda&logoColor=A5B4FC)
+<table align="center">
+  <tr>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><strong>Python</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br /><strong>C++</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br /><strong>MySQL</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /><br /><strong>SQLite</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br /><strong>Docker</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br /><strong>PyTorch</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br /><strong>TensorFlow</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" /><br /><strong>Keras</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br /><strong>OpenCV</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" /><br /><strong>scikit-learn</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br /><strong>NumPy</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br /><strong>Pandas</strong></td>
+    <td align="center" width="160"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" alt="SciPy" /><br /><strong>SciPy</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" /><br /><strong>Plotly</strong></td>
+    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" /><br /><strong>Anaconda</strong></td>
+  </tr>
+</table>
 
 ## 🚀 Selected Projects
+
 
 <table>
   <tr>
@@ -97,34 +126,49 @@ I'm **Nguyen Vo Dang Khoa**, focused on building AI applications with **computer
 
 <p align="right"><a href="https://github.com/khoavd18?tab=repositories"><strong>View all repositories →</strong></a></p>
 
-## 📊 GitHub Activity
+## 📊 GitHub Dashboard
 
-<p>
-  <a href="https://github.com/khoavd18?tab=followers"><img src="https://img.shields.io/github/followers/khoavd18?style=flat-square&amp;label=Followers&amp;color=0891B2&amp;labelColor=0F172A" alt="GitHub followers" /></a>
-  <a href="https://github.com/khoavd18?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-0891B2?style=flat-square&amp;labelColor=0F172A&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
+<p align="center">
+  <a href="https://github.com/khoavd18"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoavd18&amp;theme=tokyonight" width="100%" alt="Khoa's GitHub contribution overview" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/khoavd18?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoavd18&amp;theme=tokyonight" width="49%" alt="Languages used across Khoa's repositories" /></a>
+  <a href="https://github.com/khoavd18"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khoavd18&amp;theme=tokyonight" width="49%" alt="Khoa's GitHub statistics" /></a>
 </p>
 
 <details>
-<summary><strong>View contribution streak & language statistics</strong></summary>
+<summary><strong>🔎 Explore commit languages & coding activity by hour</strong></summary>
 
 <br />
-
 <p align="center">
-  <a href="https://github.com/khoavd18"><img width="95%" src="https://streak-stats.demolab.com/?user=khoavd18&amp;theme=github-dark-blue&amp;hide_border=true&amp;ring=22D3EE&amp;fire=FB923C&amp;currStreakLabel=22D3EE" alt="Khoa's GitHub contribution streak" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/khoavd18"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=khoavd18&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=C9D1D9" alt="Khoa's GitHub statistics" /></a>
-  <a href="https://github.com/khoavd18?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoavd18&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" alt="Languages used across Khoa's public repositories" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoavd18&amp;theme=tokyonight" width="49%" alt="Languages represented in Khoa's commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoavd18&amp;theme=tokyonight&amp;utcOffset=7" width="49%" alt="Khoa's commit activity by hour in Vietnam time (UTC+7)" />
 </p>
 
 </details>
+
+<!-- PROFILE_ACTIVITY:START -->
+<!-- The included workflow adds the graph after its SVG has been generated. -->
+<!-- PROFILE_ACTIVITY:END -->
+
+<!-- PROFILE_3D:START -->
+<!-- The included workflow adds this section after its SVG has been generated. -->
+<!-- PROFILE_3D:END -->
+
+<!-- PROFILE_SNAKE:START -->
+<!-- The included workflow adds this section after its SVGs have been generated. -->
+<!-- PROFILE_SNAKE:END -->
 
 ---
 
 <div align="center">
 
-**Let's connect and build something useful.**
+### 💬 Let's build something useful.
 
-[LinkedIn](https://www.linkedin.com/in/khoadang18/) · [GitHub](https://github.com/khoavd18)
+Interested in **AI applications, data science, and data engineering**.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/khoadang18/) · [Explore my work](https://github.com/khoavd18?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,45:312E81,100:06B6D4&amp;height=100&amp;section=footer" width="100%" alt="Decorative indigo and cyan wave" />
 
 </div>
