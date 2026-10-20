@@ -1,55 +1,130 @@
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/apolo11) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/khoa.ang.18) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoadang18/)
+<div align="center">
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=khoavd18&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khoavd18&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khoavd18&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:164E63,100:06B6D4&amp;height=210&amp;section=header&amp;text=Hi%2C%20I%27m%20Khoa&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&amp;descSize=16&amp;descAlignY=60" alt="Hi, I'm Khoa — AI Engineer, Computer Vision, Machine Learning" />
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=khoadang18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Turning data and images into practical AI applications.
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+Based in Vietnam · Building with Python · Learning through experiments
 
-### 😂Random Dev Meme
-<img src="https://i.imgur.com/5K2kK7M.jpg" width="512px">
+<p>
+  <a href="https://www.linkedin.com/in/khoadang18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/khoavd18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/khoa.ang.18"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://discord.gg/apolo11"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
+</p>
 
-## 🚀 Projects 
-<a href="https://github.com/khoavd18/Supermarket-Checkout"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Supermarket-Checkout&theme=radical" /> 
-</a> 
+[About](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-selected-projects) · [Activity](#-github-activity)
 
-<a href="https://github.com/khoavd18/Wrong-lane-app"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Wrong-lane-app&theme=merko" /> 
-</a> 
+</div>
 
-<a href="https://github.com/khoavd18/ABTE-Sentiment-DL"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=ABTE-Sentiment-DL&theme=merko" /> 
-</a> 
+## 👋 About Me
 
-<a href="https://github.com/khoavd18/Sentiment-Reviews-ML"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Sentiment-Reviews-ML&theme=merko" /> 
-</a> 
+I'm **Nguyen Vo Dang Khoa**, focused on building AI applications with **computer vision, machine learning, and deep learning**. I enjoy working through the full process: preparing data, training models, evaluating results, and connecting models to usable applications.
 
-<a href="https://github.com/khoavd18/Bitcoin-Price-Forecasting-GRU-DL"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Bitcoin-Price-Forecasting-GRU-DL&theme=merko" /> 
-</a> 
+- **Computer Vision:** object detection, image classification, and product recognition.
+- **Machine Learning:** sentiment analysis and time series forecasting.
+- **Current focus:** visual product retrieval using detection, image embeddings, and similarity search.
+- **How I work:** clear experiments, careful data preparation, and measurable results.
 
-<a href="https://github.com/khoavd18/Bitcoin-Price-Forecasting-ML"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Bitcoin-Price-Forecasting-ML&theme=merko" /> 
-</a> 
+## 🛠 Tech Stack
 
-<a href="https://github.com/khoavd18/Sale-Forecasting-ML"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoavd18&repo=Sale-Forecasting-ML&theme=merko" /> 
-</a> 
+**Languages & Databases**
 
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
 
+**Machine Learning & Deep Learning**
 
-[![](https://visitcount.itsvg.in/api?id=chickencode18&icon=0&color=0)](https://visitcount.itsvg.in)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=FB923C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FB923C)
+![Keras](https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=FB923C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=FB923C)
 
- 
+**Data & Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=2DD4BF)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=2DD4BF)
+![SciPy](https://img.shields.io/badge/SciPy-0F172A?style=for-the-badge&logo=scipy&logoColor=2DD4BF)
+![Plotly](https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&logo=plotly&logoColor=2DD4BF)
+
+**Tools & Environment**
+
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=A5B4FC)
+![Anaconda](https://img.shields.io/badge/Anaconda-0F172A?style=for-the-badge&logo=anaconda&logoColor=A5B4FC)
+
+## 🚀 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Supermarket Checkout</h3>
+      <p>Visual product detection, automatic counting, and live checkout invoices in a web application.</p>
+      <p><code>Computer Vision</code> <code>YOLOv8</code> <code>Flask</code></p>
+      <a href="https://github.com/khoavd18/Supermarket-Checkout"><strong>Explore project →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 Wrong Lane App</h3>
+      <p>An application focused on detecting vehicles traveling in the wrong lane.</p>
+      <p><code>Computer Vision</code> <code>Traffic Analysis</code></p>
+      <a href="https://github.com/khoavd18/Wrong-lane-app"><strong>Explore project →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 ABTE Sentiment DL</h3>
+      <p>Deep learning experiments for extracting insights from text and analyzing sentiment.</p>
+      <p><code>NLP</code> <code>Deep Learning</code></p>
+      <a href="https://github.com/khoavd18/ABTE-Sentiment-DL"><strong>Explore project →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Sentiment Reviews ML</h3>
+      <p>Machine learning approaches to sentiment classification for review text.</p>
+      <p><code>NLP</code> <code>Machine Learning</code></p>
+      <a href="https://github.com/khoavd18/Sentiment-Reviews-ML"><strong>Explore project →</strong></a>
+    </td>
+  </tr>
+</table>
+
+### 📈 Forecasting Experiments
+
+| Project | Focus |
+| :--- | :--- |
+| [Bitcoin Price Forecasting · GRU](https://github.com/khoavd18/Bitcoin-Price-Forecasting-GRU-DL) | Deep learning for time series forecasting with GRU networks. |
+| [Bitcoin Price Forecasting · ML](https://github.com/khoavd18/Bitcoin-Price-Forecasting-ML) | Machine learning approaches to Bitcoin price forecasting. |
+| [Sales Forecasting · ML](https://github.com/khoavd18/Sale-Forecasting-ML) | Machine learning for sales forecasting. |
+
+<p align="right"><a href="https://github.com/khoavd18?tab=repositories"><strong>View all repositories →</strong></a></p>
+
+## 📊 GitHub Activity
+
+<p>
+  <a href="https://github.com/khoavd18?tab=followers"><img src="https://img.shields.io/github/followers/khoavd18?style=flat-square&amp;label=Followers&amp;color=0891B2&amp;labelColor=0F172A" alt="GitHub followers" /></a>
+  <a href="https://github.com/khoavd18?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-0891B2?style=flat-square&amp;labelColor=0F172A&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+<details>
+<summary><strong>View contribution streak & language statistics</strong></summary>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/khoavd18"><img width="95%" src="https://streak-stats.demolab.com/?user=khoavd18&amp;theme=github-dark-blue&amp;hide_border=true&amp;ring=22D3EE&amp;fire=FB923C&amp;currStreakLabel=22D3EE" alt="Khoa's GitHub contribution streak" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/khoavd18"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=khoavd18&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=C9D1D9" alt="Khoa's GitHub statistics" /></a>
+  <a href="https://github.com/khoavd18?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoavd18&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" alt="Languages used across Khoa's public repositories" /></a>
+</p>
+
+</details>
+
+---
+
+<div align="center">
+
+**Let's connect and build something useful.**
+
+[LinkedIn](https://www.linkedin.com/in/khoadang18/) · [GitHub](https://github.com/khoavd18)
+
+</div>
